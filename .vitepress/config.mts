@@ -18,6 +18,7 @@ export default defineConfig({
   ],
   title: "Datumendo Docs",
   description: "Guides & info",
+  base: "/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
