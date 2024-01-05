@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Datumendo Docs"
-  text: "How to deploy rollups and app chains in seconds"
+  text: "Decentralized storage migration protocol"
   tagline: Docs & tutorials
   actions:
     - theme: brand
@@ -19,4 +19,3 @@ features:
   - title: Migrate NFT contract
     details: Create new NFT contracts with BNB Greenfield links, lock old NFTs to get new ones
 ---
-
